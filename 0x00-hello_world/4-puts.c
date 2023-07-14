@@ -1,12 +1,12 @@
 #include <stdio.h>
-
 /**
- * main - A command thats uses put to print instead of printf
+ * main -A command thats prints without printf
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");  
+puts("\"Programming is like building a multilingual puzz
+le");
 return (0);
 }

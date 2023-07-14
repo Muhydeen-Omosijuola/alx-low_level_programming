@@ -1,6 +1,7 @@
 #include <stdio.h>
+
 /**
- * main -A command thats prints without printf
+ * main - A command thats prints without printf
  *
  * Return: Always 0 (Success)
  */
